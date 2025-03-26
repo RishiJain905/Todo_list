@@ -1,0 +1,88 @@
+2025-03-26T00:24:14.967214003 0.006000s notice: Recursively removing directory /home/rj/projects/todo_list/Todo_list/rethinkdb_data/tmp
+2025-03-26T00:24:14.972214003 0.011000s notice: Initializing directory /home/rj/projects/todo_list/Todo_list/rethinkdb_data
+2025-03-26T00:24:14.972214004 0.011000s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/rj/projects/todo_list/Todo_list/rethinkdb_data' did not already exist or is empty.)
+2025-03-26T00:24:14.972214005 0.011000s notice: Running rethinkdb 2.4.4~0jammy (x86_64-linux-gnu) (GCC 11.4.0)...
+2025-03-26T00:24:14.974214003 0.013000s notice: Running on Linux 6.8.0-52-generic x86_64
+2025-03-26T00:24:14.974214004 0.013000s notice: Loading data from directory /home/rj/projects/todo_list/Todo_list/rethinkdb_data
+2025-03-26T00:24:15.009214003 0.048000s info: Automatically using cache size of 2809 MB
+2025-03-26T00:24:15.011214003 0.050000s notice: Listening for intracluster connections on port 29015
+2025-03-26T00:24:15.031214003 0.070000s notice: Listening for client driver connections on port 28015
+2025-03-26T00:24:15.032214003 0.071000s notice: Listening for administrative HTTP connections on port 8080
+2025-03-26T00:24:15.032214004 0.071000s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2025-03-26T00:24:15.032214005 0.071000s notice: Listening on driver addresses: 127.0.0.1, ::1
+2025-03-26T00:24:15.032214006 0.071000s notice: Listening on http addresses: 127.0.0.1, ::1
+2025-03-26T00:24:15.032214007 0.071000s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2025-03-26T00:24:15.032214008 0.071000s notice: Server ready, "Xubuntu_zlr" 34b78b0c-08bb-476c-98cb-a2cc98af9d93
+2025-03-26T00:24:19.372214003 4.411000s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2025-03-26T00:24:19.372214004 4.411000s notice: Shutting down client connections...
+2025-03-26T00:24:19.373214003 4.412000s notice: All client connections closed.
+2025-03-26T00:24:19.373214004 4.412000s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2025-03-26T00:24:19.373214005 4.412000s notice: Storage engine shut down.
+2025-03-26T00:24:27.403214003 0.013000s notice: Running rethinkdb 2.4.4~0jammy (x86_64-linux-gnu) (GCC 11.4.0)...
+2025-03-26T00:24:27.406214003 0.016000s notice: Running on Linux 6.8.0-52-generic x86_64
+2025-03-26T00:24:27.406214004 0.016000s notice: Loading data from directory /home/rj/projects/todo_list/Todo_list/rethinkdb_data
+2025-03-26T00:24:27.422214003 0.032000s info: Automatically using cache size of 2803 MB
+2025-03-26T00:24:27.423214003 0.033000s notice: Listening for intracluster connections on port 29015
+2025-03-26T00:24:27.442214003 0.052000s notice: Listening for client driver connections on port 28015
+2025-03-26T00:24:27.442214004 0.052000s notice: Listening for administrative HTTP connections on port 8080
+2025-03-26T00:24:27.442214005 0.052000s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2025-03-26T00:24:27.442214006 0.052000s notice: Listening on driver addresses: 127.0.0.1, ::1
+2025-03-26T00:24:27.442214007 0.052000s notice: Listening on http addresses: 127.0.0.1, ::1
+2025-03-26T00:24:27.442214008 0.052000s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2025-03-26T00:24:27.442214009 0.052000s notice: Server ready, "Xubuntu_zlr" 34b78b0c-08bb-476c-98cb-a2cc98af9d93
+2025-03-26T00:26:46.788214003 139.398000s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2025-03-26T00:26:46.789214003 139.399000s notice: Shutting down client connections...
+2025-03-26T00:26:46.789214004 139.399000s notice: All client connections closed.
+2025-03-26T00:26:46.789214005 139.399000s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2025-03-26T00:26:46.789214006 139.399000s notice: Storage engine shut down.
+2025-03-26T00:27:03.247214003 0.010000s notice: Running rethinkdb 2.4.4~0jammy (x86_64-linux-gnu) (GCC 11.4.0)...
+2025-03-26T00:27:03.250214003 0.013000s notice: Running on Linux 6.8.0-52-generic x86_64
+2025-03-26T00:27:03.250214004 0.013000s notice: Loading data from directory /home/rj/projects/todo_list/Todo_list/rethinkdb_data
+2025-03-26T00:27:03.269214003 0.032000s info: Automatically using cache size of 2804 MB
+2025-03-26T00:27:03.273214003 0.036000s notice: Listening for intracluster connections on port 29015
+2025-03-26T00:27:03.294214003 0.057000s notice: Listening for client driver connections on port 28015
+2025-03-26T00:27:03.296214003 0.059000s notice: Listening for administrative HTTP connections on port 8080
+2025-03-26T00:27:03.296214004 0.059000s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2025-03-26T00:27:03.296214005 0.059000s notice: Listening on driver addresses: 127.0.0.1, ::1
+2025-03-26T00:27:03.296214006 0.059000s notice: Listening on http addresses: 127.0.0.1, ::1
+2025-03-26T00:27:03.296214007 0.059000s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2025-03-26T00:27:03.296214008 0.059000s notice: Server ready, "Xubuntu_zlr" 34b78b0c-08bb-476c-98cb-a2cc98af9d93
+2025-03-26T00:30:37.451966762 214.214752s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2025-03-26T00:30:37.451966763 214.214752s notice: Shutting down client connections...
+2025-03-26T00:30:37.451966764 214.214752s notice: All client connections closed.
+2025-03-26T00:30:37.451966765 214.214752s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2025-03-26T00:30:37.452966262 214.215752s notice: Storage engine shut down.
+2025-03-26T00:30:58.728323256 0.007995s notice: Running rethinkdb 2.4.4~0jammy (x86_64-linux-gnu) (GCC 11.4.0)...
+2025-03-26T00:30:58.728323257 0.007995s notice: Running on Linux 6.8.0-52-generic x86_64
+2025-03-26T00:30:58.728323258 0.007995s notice: Loading data from directory /home/rj/projects/todo_list/Todo_list/rethinkdb_data
+2025-03-26T00:30:58.739317757 0.018990s info: Automatically using cache size of 2318 MB
+2025-03-26T00:30:58.742316257 0.021989s notice: Listening for intracluster connections on port 29015
+2025-03-26T00:30:58.742316258 0.021989s notice: Listening for client driver connections on port 28015
+2025-03-26T00:30:58.742316259 0.021989s notice: Listening for administrative HTTP connections on port 8080
+2025-03-26T00:30:58.742316260 0.021989s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2025-03-26T00:30:58.742316261 0.021989s notice: Listening on driver addresses: 127.0.0.1, ::1
+2025-03-26T00:30:58.742316262 0.021989s notice: Listening on http addresses: 127.0.0.1, ::1
+2025-03-26T00:30:58.742316263 0.021989s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2025-03-26T00:30:58.742316264 0.021989s notice: Server ready, "Xubuntu_zlr" 34b78b0c-08bb-476c-98cb-a2cc98af9d93
+2025-03-26T00:36:00.231727229 301.511399s info: Table 75629350-d15d-45d7-b59a-9b25da8aff69: Starting a new Raft election for term 1.
+2025-03-26T00:36:00.231727230 301.511399s info: Table 75629350-d15d-45d7-b59a-9b25da8aff69: Added replica on this server.
+2025-03-26T00:36:00.237730229 301.517402s info: Table 75629350-d15d-45d7-b59a-9b25da8aff69: This server is Raft leader for term 1. Latest log index is 0.
+2025-03-26T00:41:35.533294137 0.008004s notice: Running rethinkdb 2.4.4~0jammy (x86_64-linux-gnu) (GCC 11.4.0)...
+2025-03-26T00:41:35.536295637 0.011005s notice: Running on Linux 6.8.0-52-generic x86_64
+2025-03-26T00:41:35.536295638 0.011005s notice: Loading data from directory /home/rj/projects/todo_list/Todo_list/rethinkdb_data
+2025-03-26T00:41:35.554304637 0.029014s info: Automatically using cache size of 2318 MB
+2025-03-26T00:41:35.556305637 0.031015s notice: Listening for intracluster connections on port 29015
+2025-03-26T00:41:35.593324137 0.068034s notice: Listening for client driver connections on port 28015
+2025-03-26T00:41:35.593324138 0.068034s notice: Listening for administrative HTTP connections on port 8080
+2025-03-26T00:41:35.593324139 0.068034s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2025-03-26T00:41:35.593324140 0.068034s notice: Listening on driver addresses: 127.0.0.1, ::1
+2025-03-26T00:41:35.593324141 0.068034s notice: Listening on http addresses: 127.0.0.1, ::1
+2025-03-26T00:41:35.593324142 0.068034s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2025-03-26T00:41:35.593324143 0.068034s notice: Server ready, "Xubuntu_zlr" 34b78b0c-08bb-476c-98cb-a2cc98af9d93
+2025-03-26T00:41:36.593824138 1.068534s info: Table 75629350-d15d-45d7-b59a-9b25da8aff69: Starting a new Raft election for term 2.
+2025-03-26T00:41:36.598826638 1.073536s info: Table 75629350-d15d-45d7-b59a-9b25da8aff69: This server is Raft leader for term 2. Latest log index is 3.
+2025-03-26T00:43:59.075882826 143.550592s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2025-03-26T00:43:59.075882827 143.550592s notice: Shutting down client connections...
+2025-03-26T00:43:59.075882828 143.550592s notice: All client connections closed.
+2025-03-26T00:43:59.075882829 143.550592s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2025-03-26T00:43:59.082882826 143.557592s notice: Storage engine shut down.

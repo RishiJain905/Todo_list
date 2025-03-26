@@ -1,6 +1,7 @@
 from flask_wtf import FlaskForm
-from wtforms.fields import TextField
-from wtforms.validators import Required
-
+from wtforms.fields import StringField
+from wtforms.validators import DataRequired
+from wtforms.fields import StringField
 class TaskForm(FlaskForm):
-	label = TextField('label', validators = [Required()])
+	label = StringField('label', validators=[DataRequired()])
+
