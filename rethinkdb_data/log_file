@@ -86,3 +86,41 @@
 2025-03-26T00:43:59.075882828 143.550592s notice: All client connections closed.
 2025-03-26T00:43:59.075882829 143.550592s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
 2025-03-26T00:43:59.082882826 143.557592s notice: Storage engine shut down.
+2025-03-26T00:46:17.281882826 0.014000s notice: Running rethinkdb 2.4.4~0jammy (x86_64-linux-gnu) (GCC 11.4.0)...
+2025-03-26T00:46:17.284882826 0.017000s notice: Running on Linux 6.8.0-52-generic x86_64
+2025-03-26T00:46:17.284882827 0.017000s notice: Loading data from directory /home/rj/projects/todo_list/Todo_list/rethinkdb_data
+2025-03-26T00:46:17.304882826 0.037000s info: Automatically using cache size of 2273 MB
+2025-03-26T00:46:17.306882826 0.039000s notice: Listening for intracluster connections on port 29015
+2025-03-26T00:46:17.339882826 0.072000s notice: Listening for client driver connections on port 28015
+2025-03-26T00:46:17.339882827 0.072000s notice: Listening for administrative HTTP connections on port 8080
+2025-03-26T00:46:17.339882828 0.072000s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2025-03-26T00:46:17.339882829 0.072000s notice: Listening on driver addresses: 127.0.0.1, ::1
+2025-03-26T00:46:17.339882830 0.072000s notice: Listening on http addresses: 127.0.0.1, ::1
+2025-03-26T00:46:17.339882831 0.072000s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2025-03-26T00:46:17.339882832 0.072000s notice: Server ready, "Xubuntu_zlr" 34b78b0c-08bb-476c-98cb-a2cc98af9d93
+2025-03-26T00:46:19.021882826 1.754000s info: Table 75629350-d15d-45d7-b59a-9b25da8aff69: Starting a new Raft election for term 3.
+2025-03-26T00:46:19.026882826 1.759000s info: Table 75629350-d15d-45d7-b59a-9b25da8aff69: This server is Raft leader for term 3. Latest log index is 6.
+2025-03-26T00:51:24.263711434 306.995828s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2025-03-26T00:51:24.264710934 306.996828s notice: Shutting down client connections...
+2025-03-26T00:51:24.264710935 306.996828s notice: All client connections closed.
+2025-03-26T00:51:24.264710936 306.996828s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2025-03-26T00:51:24.270707934 307.002825s notice: Storage engine shut down.
+2025-03-26T00:51:31.261210931 0.003997s notice: Running rethinkdb 2.4.4~0jammy (x86_64-linux-gnu) (GCC 11.4.0)...
+2025-03-26T00:51:31.265208931 0.007995s notice: Running on Linux 6.8.0-52-generic x86_64
+2025-03-26T00:51:31.265208932 0.007995s notice: Loading data from directory /home/rj/projects/todo_list/Todo_list/rethinkdb_data
+2025-03-26T00:51:31.283199932 0.025987s info: Automatically using cache size of 2264 MB
+2025-03-26T00:51:31.283199933 0.025987s notice: Listening for intracluster connections on port 29015
+2025-03-26T00:51:31.319181931 0.061968s notice: Listening for client driver connections on port 28015
+2025-03-26T00:51:31.319181932 0.061968s notice: Listening for administrative HTTP connections on port 8080
+2025-03-26T00:51:31.319181933 0.061968s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2025-03-26T00:51:31.319181934 0.061968s notice: Listening on driver addresses: 127.0.0.1, ::1
+2025-03-26T00:51:31.319181935 0.061968s notice: Listening on http addresses: 127.0.0.1, ::1
+2025-03-26T00:51:31.319181936 0.061968s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2025-03-26T00:51:31.319181937 0.061968s notice: Server ready, "Xubuntu_zlr" 34b78b0c-08bb-476c-98cb-a2cc98af9d93
+2025-03-26T00:51:33.278201931 2.020988s info: Table 75629350-d15d-45d7-b59a-9b25da8aff69: Starting a new Raft election for term 4.
+2025-03-26T00:51:33.294193932 2.036981s info: Table 75629350-d15d-45d7-b59a-9b25da8aff69: This server is Raft leader for term 4. Latest log index is 9.
+2025-03-26T01:01:53.876658637 622.619445s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2025-03-26T01:01:53.876658638 622.619445s notice: Shutting down client connections...
+2025-03-26T01:01:53.877658637 622.620445s notice: All client connections closed.
+2025-03-26T01:01:53.877658638 622.620445s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2025-03-26T01:01:53.884658637 622.627445s notice: Storage engine shut down.
